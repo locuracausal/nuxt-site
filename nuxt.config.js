@@ -50,7 +50,7 @@ export default {
     baseURL: '/'
   },
   router: {
-    base: '/nuxt-portfolio/'
+    base: '/nuxt-site/'
   },
   target: 'static',
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
